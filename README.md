@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">Angular Example App</h3>
-updated it agai for testing this time
+UPDATED FOR TESTING AGAIN
   <p align="center">
     Example app with Angular 13 + Angular CLI + i18n + Graphql
     <br>
